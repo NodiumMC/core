@@ -1,0 +1,11 @@
+{
+  "name": "@ndml/core",
+  "main": "src/index.ts",
+  "version": "1.0.0",
+  "files": [
+    "src"
+  ],
+  "dependencies": {
+    "rxjs": "^7.8.0"
+  }
+}
